@@ -1,4 +1,5 @@
 # Traffic sign classification using convolutional neural networks
+Part of the CS50's Introduction to Artificial Intelligence with Python course
 
 Initially, I worked with the gtsrb-small directory to load all the images and get a neural network up and running. I started with a single dense layer of 8 units and ReLU activation which gave around 90% accuracy for the smaller directory, but under 10% for the larger one. Increasing the number of units increased the accuracy but took far too long to train. 
 
