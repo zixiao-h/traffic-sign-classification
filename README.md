@@ -1,7 +1,7 @@
 # Traffic sign classification using convolutional neural networks
 Part of the CS50's Introduction to Artificial Intelligence with Python course
 
-A neural network to classify images of traffic signs, written using the tensorflow.keras framework. Training dataset provided by the German Traffic Sign Recognition Benchmark (GTSRB). A small test dataset is provided in gtsrb-small, while the full data can be downloaded via https://benchmark.ini.rub.de/gtsrb_dataset.html
+A neural network to classify images of traffic signs, written using the <TT>tensorflow.keras</TT> framework. Training dataset provided by the German Traffic Sign Recognition Benchmark (GTSRB). A small test dataset is provided in gtsrb-small, while the full data can be downloaded via https://benchmark.ini.rub.de/gtsrb_dataset.html
 
 ## Implementation process
 
